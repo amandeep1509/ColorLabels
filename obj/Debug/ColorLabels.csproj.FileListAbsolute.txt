@@ -1,0 +1,10 @@
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ColorLabels\ColorLabels\bin\Debug\ColorLabels.exe.config
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ColorLabels\ColorLabels\bin\Debug\ColorLabels.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ColorLabels\ColorLabels\bin\Debug\ColorLabels.pdb
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ColorLabels\ColorLabels\obj\Debug\ColorLabels.csprojResolveAssemblyReference.cache
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ColorLabels\ColorLabels\obj\Debug\ColorLabels.Form1.resources
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ColorLabels\ColorLabels\obj\Debug\ColorLabels.Properties.Resources.resources
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ColorLabels\ColorLabels\obj\Debug\ColorLabels.csproj.GenerateResource.Cache
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ColorLabels\ColorLabels\obj\Debug\ColorLabels.exe
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ColorLabels\ColorLabels\obj\Debug\ColorLabels.pdb
+c:\users\amand\onedrive\documents\visual studio 2015\Projects\ColorLabels\ColorLabels\obj\Debug\ColorLabels.AboutBox1.resources
